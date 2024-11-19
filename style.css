@@ -492,6 +492,10 @@ form button:hover {
     width: 90%;
     margin: 20px;
  }
+ .contact-btn{
+    width: 25%;
+    border-radius: 5px;
+}
 
 
 }
